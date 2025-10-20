@@ -18,19 +18,17 @@ private val DarkColorScheme = darkColorScheme(
 )
 
 private val LightColorScheme = lightColorScheme(
-    primary = Purple40,
-    secondary = PurpleGrey40,
-    tertiary = Pink40
-
-    /* Other default colors to override
-    background = Color(0xFFFFFBFE),
-    surface = Color(0xFFFFFBFE),
-    onPrimary = Color.White,
-    onSecondary = Color.White,
-    onTertiary = Color.White,
-    onBackground = Color(0xFF1C1B1F),
-    onSurface = Color(0xFF1C1B1F),
-    */
+    primary = ClayPurple, // soft purple for primary
+    secondary = ClayBlue, // soft blue for secondary  
+    tertiary = ClayPink, // soft pink for tertiary
+    background = ClayBackground, // soft background
+    surface = ClaySurface, // soft surface
+    onPrimary = ClayTextPrimary, // soft text on primary
+    onSecondary = ClayTextPrimary, // soft text on secondary
+    onTertiary = ClayTextPrimary, // soft text on tertiary
+    onBackground = ClayTextPrimary, // soft text on background
+    onSurface = ClayTextPrimary, // soft text on surface
+    // TODO: maybe add more custom colors?
 )
 
 @Composable
