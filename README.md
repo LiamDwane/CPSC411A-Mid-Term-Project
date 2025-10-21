@@ -2,6 +2,12 @@
 
 A multi-screen Android app built with Jetpack Compose that demonstrates fundamental Android development concepts.
 
+![Main Menu](./images/mainmenu.png)
+
+![Movie Describe](./images/moviedescribe.png)
+
+![Watchlist](./images/watchlist.png)
+
 ## Features
 
 - **Home Screen**: Displays a list of movies with posters and titles
