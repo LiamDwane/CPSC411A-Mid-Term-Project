@@ -76,6 +76,6 @@ The app includes 8 popular movies with:
 
 ## Team Project Member:
 - An Nguyen - Email: AnNguyen0410@csu.fullerton.edu - CWID: 885598904
-- Liam Dwane
+- Liam Dwane - Email: lpdwane@csu.fullerton.edu - CWID: 888470812
 - Tri Bui - Email: triminhbui@csu.fullerton.edu - CWID: 885242487
 - Kendrik Deleoz - Email: kendrikdeleoz@csu.fullerton.edu - CWID: 886859461
