@@ -2,7 +2,7 @@
 
 A multi-screen Android app built with Jetpack Compose that demonstrates fundamental Android development concepts.
 
-![Main Menu](./images/mainmenu.png)
+![Main Menu](./images/menu.png)
 
 ![Movie Describe](./images/moviedescribe.png)
 
