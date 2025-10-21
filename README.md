@@ -79,3 +79,6 @@ The app includes 8 popular movies with:
 - Liam Dwane - Email: lpdwane@csu.fullerton.edu - CWID: 888470812
 - Tri Bui - Email: triminhbui@csu.fullerton.edu - CWID: 885242487
 - Kendrik Deleoz - Email: kendrikdeleoz@csu.fullerton.edu - CWID: 886859461
+
+## Youtube Unlist Video
+https://youtube.com/shorts/6Rt8YBZMBK0?feature=share
