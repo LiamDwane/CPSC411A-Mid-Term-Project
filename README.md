@@ -74,11 +74,11 @@ The app includes 8 popular movies with:
 - Kotlin 2.0.21
 - Jetpack Compose BOM 2024.09.00
 
-## Team Project Member:
+## Team Project Members
 - An Nguyen - Email: AnNguyen0410@csu.fullerton.edu - CWID: 885598904
 - Liam Dwane - Email: lpdwane@csu.fullerton.edu - CWID: 888470812
 - Tri Bui - Email: triminhbui@csu.fullerton.edu - CWID: 885242487
 - Kendrik Deleoz - Email: kendrikdeleoz@csu.fullerton.edu - CWID: 886859461
 
-## Youtube Unlist Video
+## Youtube Unlisted Video
 https://youtube.com/shorts/6Rt8YBZMBK0?feature=share
